@@ -1,0 +1,7 @@
+map.html
+<html>
+<img src="tn.jpg>alt="district"usemap="#dmap"><map name="dmap">
+<area shape="rect"coord="141,91,160,114"href="salem.html"alt="salem">
+<area shape="circle"cooeds="124,125,25"href="chennai.html"alt=<"chennai">
+</map>
+</html>
